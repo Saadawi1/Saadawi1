@@ -1,8 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-<h1 align='center' fontWeight='bold'>Ahmed Saad</h1>
-<h1 align="center">Hi 👋, I'm Ahmed Saad</h1>
-<h3 align="center">Frontend Developer | React.js • Tailwind • JavaScript</h3>
+<h1 align="center"><b>Ahmed Saad</b></h1>
+<h3 align="center">🚀 Frontend Developer | React.js • Tailwind • JavaScript</h3>
 
 ---
 
@@ -16,15 +15,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadawi1&theme=github_dark" alt="Profile Summary Card"/>
-</p>
-
----
-
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student (4th Year) – Helwan University, Faculty of Science  
-- 💻 Passionate Frontend Developer specializing in **React.js & Next.js**  
+- 🎓 **Computer Science Student (4th Year)** – Helwan University, Faculty of Science  
+- 💻 Passionate **Frontend Developer** specializing in **React.js & Next.js**  
 - 🎨 Skilled in building **responsive UI/UX** with HTML5, CSS3, Bootstrap, Tailwind CSS, and Sass  
 - 🐍 Knowledge of **Python** and fundamentals in **Data Structures & Algorithms**  
 - 🗄️ Experience with **MySQL** and API integration for dynamic web apps  
@@ -58,11 +51,33 @@
 
 ### 💼 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [EliteShop (Live)](https://elite-shop-react.vercel.app/) | Responsive e-commerce app using React.js, Next.js, Tailwind, Sass, and Bootstrap. Includes product listing, cart, checkout, and API integration. Deployed on Vercel. |
-| [EliteShop (GitHub)](https://saadawi1.github.io/Ecommerce-Shop/) | Frontend e-commerce template using HTML, Tailwind CSS, and JavaScript. Features dynamic shopping cart, state management, and API integration. |
-| [Dashboard UI Template](https://saadawi1.github.io/Html_and_Css_template_four/) | Clean, responsive dashboard interface built with HTML5 and CSS3. Includes profile, projects, courses, and analytics modules. |
+#### 🛒 EliteShop (React + Next.js)
+<p align="center">
+  <a href="https://elite-shop-react.vercel.app/">
+    <img src="https://via.placeholder.com/600x300.png?text=EliteShop+React+Preview" width="500" alt="EliteShop React Preview"/>
+  </a>
+</p>
+🔗 [Live Demo](https://elite-shop-react.vercel.app/) | 💻 [Code](https://github.com/Saadawi1/EliteShop-React)
+
+---
+
+#### 🛍️ Ecommerce Shop (HTML, CSS, JS)
+<p align="center">
+  <a href="https://saadawi1.github.io/Ecommerce-Shop/">
+    <img src="https://via.placeholder.com/600x300.png?text=Ecommerce+Shop+Preview" width="500" alt="Ecommerce Shop Preview"/>
+  </a>
+</p>
+🔗 [Live Demo](https://saadawi1.github.io/Ecommerce-Shop/) | 💻 [Code](https://github.com/Saadawi1/Ecommerce-Shop)
+
+---
+
+#### 📊 Dashboard UI Template
+<p align="center">
+  <a href="https://saadawi1.github.io/Html_and_Css_template_four/">
+    <img src="https://via.placeholder.com/600x300.png?text=Dashboard+UI+Preview" width="500" alt="Dashboard UI Template"/>
+  </a>
+</p>
+🔗 [Live Demo](https://saadawi1.github.io/Html_and_Css_template_four/) | 💻 [Code](https://github.com/Saadawi1/Html_and_Css_template_four)
 
 ---
 
@@ -74,13 +89,31 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadawi1&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadawi1&theme=github_dark" alt="Profile Summary Card"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saadawi1&theme=darkhub&title=Repositories,Commits,Followers,Experience"/>
+</p>
+
+---
+
 ### 📫 Contact Me
-- 📧 Email: [ahmedsaad4887@gmail.com](mailto:ahmedsaad4887@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-saad-813303293)  
-- 🌐 [GitHub](https://github.com/Saadawi1)  
+<p align="center">
+  <a href="mailto:ahmedsaad4887@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-saad-813303293"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Saadawi1"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://wa.me/201158796343"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/></a>
+</p>
 
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/romanyn36/romanyn36/output/snake.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saadawi1&theme=darkhub&title=Repositories,Commits,Followers,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
