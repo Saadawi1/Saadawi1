@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-# Ahmed Saad
+<h1 align='center' font='bold'>Ahmed Saad</h1>
 <h1 align="center">Hi 👋, I'm Ahmed Saad</h1>
 <h3 align="center">Frontend Developer | React.js • Tailwind • JavaScript</h3>
 
