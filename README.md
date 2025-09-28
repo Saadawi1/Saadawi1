@@ -54,7 +54,6 @@
 #### 🛒 EliteShop (React + Next.js)
 <p align="center">
   <a href="https://elite-shop-react.vercel.app/">
-    <img src="https://via.placeholder.com/600x300.png?text=EliteShop+React+Preview" width="500" alt="EliteShop React Preview"/>
   </a>
 </p>
 🔗 [Live Demo](https://elite-shop-react.vercel.app/) | 💻 [Code](https://github.com/Saadawi1/EliteShop-React)
@@ -64,7 +63,6 @@
 #### 🛍️ Ecommerce Shop (HTML, CSS, JS)
 <p align="center">
   <a href="https://saadawi1.github.io/Ecommerce-Shop/">
-    <img src="https://via.placeholder.com/600x300.png?text=Ecommerce+Shop+Preview" width="500" alt="Ecommerce Shop Preview"/>
   </a>
 </p>
 🔗 [Live Demo](https://saadawi1.github.io/Ecommerce-Shop/) | 💻 [Code](https://github.com/Saadawi1/Ecommerce-Shop)
@@ -74,7 +72,6 @@
 #### 📊 Dashboard UI Template
 <p align="center">
   <a href="https://saadawi1.github.io/Html_and_Css_template_four/">
-    <img src="https://via.placeholder.com/600x300.png?text=Dashboard+UI+Preview" width="500" alt="Dashboard UI Template"/>
   </a>
 </p>
 🔗 [Live Demo](https://saadawi1.github.io/Html_and_Css_template_four/) | 💻 [Code](https://github.com/Saadawi1/Html_and_Css_template_four)
